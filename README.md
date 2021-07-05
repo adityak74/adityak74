@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Karnam</h1>
-<h3 align="center">Full Stack Engineer | Blockchain Grad Student</h3>
+<h3 align="center">Full Stack Engineer | Blockchain Grad Student | Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityak74&label=Profile%20views&color=0e75b6&style=flat" alt="adityak74" /> </p>
 
