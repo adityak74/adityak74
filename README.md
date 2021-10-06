@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Karnam</h1>
 <h3 align="center">Full Stack Engineer | Blockchain Grad Student | Entrepreneur</h3>
 
+<a href="https://app.daily.dev/adityakarnam"><img src="https://api.daily.dev/devcards/a818937c6786410395befffd25bf18fa.png?r=k1i" width="400" alt="Aditya Karnam's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityak74&label=Profile%20views&color=0e75b6&style=flat" alt="adityak74" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityak74" alt="adityak74" /></a> </p>
