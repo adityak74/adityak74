@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | Blockchain  | Entrepreneur</h3>
 
 <div align="center">
-<a href="https://app.daily.dev/adityakarnam"><img src="https://api.daily.dev/devcards/a818937c6786410395befffd25bf18fa.png?r=5km" width="400" alt="Aditya Karnam's Dev Card"/></a>
+<a href="https://app.daily.dev/adityakarnam"><img src="https://api.daily.dev/devcards/a818937c6786410395befffd25bf18fa.png?r=t9v" width="400" alt="Aditya Karnam's Dev Card"/></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityak74&label=Profile%20views&color=0e75b6&style=flat" alt="adityak74" /> </p>
 
