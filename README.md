@@ -10,11 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/aditya_karnam" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_karnam?logo=twitter&style=for-the-badge" alt="aditya_karnam" /></a> </p>
 
-### Apply to work for Knockmydoors - Reinventing the services industry - https://angel.co/company/knockmydoors/jobs
-
-- 🔭 I’m currently working on [Cryptoviz](https://github.com/adityak74/cryptoviz)
-
-- 🌱 I’m currently learning **React Native, QuestDB, Kafka**
+![star-history-2024415](https://github.com/adityak74/adityak74/assets/5231288/bd78ab85-bab4-4968-8098-982e5b49adc1)
 
 - 👯 I’m looking to collaborate on [Google Drive Upload Action](https://github.com/adityak74/google-drive-upload-git-action)
 
@@ -25,8 +21,6 @@
 - 📫 How to reach me **akarnam37@gmail.com**
 
 - 📄 Know about my experiences [https://www.visualcv.com/pdfs/2887260](https://www.visualcv.com/pdfs/2887260)
-
-- ⚡ Fun fact **I never shut down my PC because its always mining.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
