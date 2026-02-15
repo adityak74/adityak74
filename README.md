@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aditya Karnam</h1>
-<h3 align="center"></h3>
+### 👋 Hi, I’m **Aditya Karnam**
+**Backend Engineer · AI Innovator · Researcher**
 
-<div align="center">
+I build intelligent systems that connect rigorous backend engineering with modern AI research.  
+My work focuses on **LLM infrastructure**, **context-aware retrieval**, and **tools that bridge AI to real-world workflows**.
 
-<p align="center"> <a href="https://twitter.com/aditya_karnam" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_karnam?logo=twitter&style=for-the-badge" alt="aditya_karnam" /></a> </p>
+🧠 **Some things I’m building & researching:**
+- **Academic retrieval with MCP** → [mcp-scholarly](https://github.com/adityak74/mcp-scholarly)
+- **Applied model fine-tuning in healthcare** → [medfit-llm](https://github.com/adityak74/medfit-llm)
+- **Developer productivity automation** → [google-drive-upload-git-action](https://github.com/adityak74/google-drive-upload-git-action)
+- **Interoperable AI chat contexts** → [opencontext](https://github.com/adityak74/opencontext)
 
-![star-history-202555](https://github.com/user-attachments/assets/75fa6ebb-7781-41c6-88ee-b6908048e970)
+💬 I share work and thoughts on **AI systems**, **open-source tools**, and **intelligent automation**:  
+- 🌐 Website: [adityakarnam.com](https://adityakarnam.com)  
+- 🧵 Threads: [threads.com/@aditya_karnam](https://www.threads.com/@aditya_karnam)  
+- 📚 Google Scholar: [scholar.google.com/citations?user=WujCeDkAAAAJ](https://scholar.google.com/citations?user=WujCeDkAAAAJ&hl=en)
 
-![star-history-2024826](https://github.com/user-attachments/assets/d7900821-f185-4959-859c-a29516c70ba1)
-
-</div>
+⚙️ Always exploring the edges of where **engineering meets intelligence**.
