@@ -1,12 +1,6 @@
 ### 👋 Hi, I’m **Aditya Karnam**
 **Backend Engineer · AI Innovator · Researcher**
 
-<div align="center">
-
-**🔥 Latest Work: [opencontext](https://github.com/adityak74/opencontext) — Interoperable AI chat contexts**
-
-</div>
-
 I build intelligent systems that connect rigorous backend engineering with modern AI research.  
 My work focuses on **LLM infrastructure**, **context-aware retrieval**, and **tools that bridge AI to real-world workflows**.
 
