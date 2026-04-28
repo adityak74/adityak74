@@ -1,4 +1,4 @@
-### 👋 Hi, I’m **Aditya Karnam**  
+### Hi, I’m **Aditya Karnam**  
 **Senior AI Systems Engineer · AI Innovator · Researcher**
 
 I build intelligent AI systems that combine **strong engineering**, **modern LLM workflows**, and **real‑world usability**.  
