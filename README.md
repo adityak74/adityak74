@@ -30,3 +30,58 @@ I share work and thoughts on **AI systems**, **open‑source tools**, **prompt d
 - Google Scholar: [citations?user=WujCeDkAAAAJ](https://scholar.google.com/citations?user=WujCeDkAAAAJ&hl=en)  
 
 Currently exploring how to make AI systems more interpretable without sacrificing performance.
+
+---
+
+## Portfolio MCP
+
+A public, read-only [Model Context Protocol](https://modelcontextprotocol.io) server exposing this portfolio's projects, recent work, research agenda, and source links as structured data for agents and assistants.
+
+- MCP name: `aditya-portfolio`
+- Transport: `http`
+- URL: `https://adityakarnam.com/mcp`
+- Discovery manifest: `https://adityakarnam.com/.well-known/aditya-portfolio-mcp.json`
+- Health check: `https://adityakarnam.com/mcp-health`
+- Install guide: [adityakarnam.com/mcp-install](https://adityakarnam.com/mcp-install/)
+
+It exposes only public data: projects, posts, systems, research agenda, and source links. It does not expose private files, email, analytics, personal data, availability, compensation, immigration status, or references.
+
+### Claude Code
+
+```bash
+claude mcp add --transport http aditya-portfolio https://adityakarnam.com/mcp
+```
+
+Verify with:
+
+```bash
+claude mcp list
+```
+
+### Claude (web/desktop app)
+
+1. Open Claude → Settings / Customize → Connectors.
+2. Choose **Add custom connector**.
+3. Paste `https://adityakarnam.com/mcp`.
+4. Save the connector.
+
+### Other agents (Codex, Cursor, Antigravity, or any MCP-compatible client)
+
+Add a remote server:
+
+- Name: `aditya-portfolio`
+- Transport: `http`
+- URL: `https://adityakarnam.com/mcp`
+
+Clients that only support local/stdio MCP servers can bridge to this endpoint via [`mcp-remote`](https://www.npmjs.com/package/mcp-remote):
+
+```bash
+npx mcp-remote https://adityakarnam.com/mcp
+```
+
+### Try it
+
+- "Use Aditya Karnam's portfolio connector. Is he a fit for this AI infrastructure role?"
+- "Which projects show agent runtime or MCP experience?"
+- "Give me a recruiter brief with evidence and source links."
+- "Act as an engineer. Which systems should I inspect first?"
